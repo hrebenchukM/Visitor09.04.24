@@ -1,0 +1,4 @@
+VideoCard
+Producer: GeForce
+Type: Discrete
+GB: 8 gb

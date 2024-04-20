@@ -1,0 +1,4 @@
+RAM
+Producer: Goodram
+Type: DDR4
+GB: 16 gb
